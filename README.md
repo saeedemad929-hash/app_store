@@ -15,8 +15,7 @@
 | شاشة الترحيب (Splash) | تسجيل الدخول (OTP) | الرئيسية (Home) |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/8514d746-a26d-4dc7-a4a5-1ecfc8de2de8" width="200"> | <img src="https://github.com/user-attachments/assets/f0342281-5b22-480b-b111-67bed494a000" width="200"> | <img src="https://github.com/user-attachments/assets/2e7d9d8c-1f74-47c3-b276-e42f82ec96ab" width="200"> |
-
-| خدمات أورانج | قسم الصيانة | لوحة تحكم الإدارة |
+ |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/bf0aa4ff-b7d5-4dd4-af76-0dbaeb4b93bc" width="200"> | <img src="https://github.com/user-attachments/assets/22d6ae5f-ee3a-4bf1-a1e6-6d4a01fc3c83" width="200"> | <img src="https://github.com/user-attachments/assets/23589103-af4b-45a6-86ee-16ba5154aec7" width="200"> |
 
